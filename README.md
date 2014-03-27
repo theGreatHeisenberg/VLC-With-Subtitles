@@ -1,6 +1,6 @@
 ##Automatic subtitle Loader for VLC
 ***
-    Imagine the time you spend and all the trouble you go through while downloading the appropriate subtitles for a movie or an episode of your favourite Television series. This python script will provide you a hassle free experience by downloading subtitles and loading them automatically in a `VLC`. Currently this script only works on Ubuntu. It is based on [manojmj92](https://github.com/manojmj92)'s [subtitle downloader] (https://github.com/manojmj92/subtitle-downloader)
+Imagine the time you spend and all the trouble you go through while downloading the appropriate subtitles for a movie or an episode of your favourite Television series. This python script will provide you a hassle free experience by downloading subtitles and loading them automatically in a `VLC`. Currently this script only works on Ubuntu. It is based on [manojmj92](https://github.com/manojmj92)'s [subtitle downloader] (https://github.com/manojmj92/subtitle-downloader)
 
 ## Prerequisites
 ---
