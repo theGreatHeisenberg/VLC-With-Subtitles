@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Vlc With Subs
+Comment=This is my comment
+Exec=/usr/share/vlcSub/src/vlcSub.py
+Icon=/usr/share/vlcSub/images/vlcSub.png
+Path=/usr/share/vlcSub/
+Terminal=true
+Type=Application
+Categories=Application;
