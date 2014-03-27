@@ -8,6 +8,7 @@
 # Created	:
 # Copyright	: (c) www.manojmj.com
 # Licence	: GPL v3
+# Edited by     : theGreatHeisenberg
 #-------------------------------------------------------------------------------
 import os
 import hashlib
