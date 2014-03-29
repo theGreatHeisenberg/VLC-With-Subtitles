@@ -50,8 +50,12 @@ def sub_downloader(path):
             subtitle.write(response)
 
 path = sys.argv[1]
-sub_downloader(path)
 print "opening file "+path
-print "subtitles ready"
-time.sleep(3)
+try:
+	sub_downloader(path)
+	print "subtitles ready"
+except:
+	print "subtitles unavailable"	
+time.sleep(1)
 subprocess.call(["vlc",path])
+
