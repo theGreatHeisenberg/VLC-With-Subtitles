@@ -16,3 +16,7 @@ Refer [VLC_subDownloader](https://github.com/Rushikesh005/vlc_subDownloader) for
     1. Download and unzip this repository or clone it into your local machine.
     2. Run `python setup.py` and you are done.
     3. Now watch any movie or episode without explicitly downloading subtitles.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/theGreatHeisenberg/vlc-with-subtitles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
